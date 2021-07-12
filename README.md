@@ -10,6 +10,8 @@ Try <a href="https://support.snyk.io/hc/en-us/articles/360018585717-Visual-Studi
 	<br/> Did I mention it's free?
 </p>
 
+⚠️ Important notice, this repository *is not* publisher to npmjs, and it isn't the same as [eslint-plugin-react-security](https://www.npmjs.com/package/eslint-plugin-react-security), which is a different project, maintained by an entirely different developer.
+
 ⚠️ Maintenance notice: The `eslint-plugin-react-security` project is no longer under active maintenance by the Snyk team.
 
 Instead, we invite you to try out the Snyk Code IDE integrations for either [IntelliJ](https://support.snyk.io/hc/en-us/articles/360004032317-JetBrains-plugins) or [VSCode](https://support.snyk.io/hc/en-us/articles/360018585717-Visual-Studio-Code-extension-for-Snyk-Code-) which provide a developer-friendly secure coding experience while you code.
